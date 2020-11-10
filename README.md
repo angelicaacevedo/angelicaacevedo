@@ -1,5 +1,5 @@
 ### Hey 👋
-<h1 align="center">Desenvolvedora Front-end</h1>
+<h1 align="center">Desenvolvedora Front-end e Android</h1>
 
 <h4 align="center">
   Aqui você vai encontrar meus projetos e minhas colaborações para o mundo do desenvolvimento.
