@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:angelicaacevedo@gmail.com" alt="Gmail">
-   <img src="https://img.shields.io/badge/-angelicaacevedo@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=angelicaacevedo@gmail.com" /> 
+  <a href="mailto:aceroacevedoangelica@gmail.com" alt="Gmail">
+   <img src="https://img.shields.io/badge/-aceroacevedoangelica@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=aceroacevedoangelica@gmail.com" /> 
   </a>
 
   <a href="https://www.linkedin.com/in/angelicaaceroacevedo" alt="Linkedin"> 
