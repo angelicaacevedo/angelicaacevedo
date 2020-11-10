@@ -6,7 +6,7 @@
 </h4>
 
 <p align="center">
-📫  Você se tiver interesse de me contatar aqui estão minhas redes:
+📫  Se você se interessou por meu perfil pode me contatar nas seguintes redes:
 </p>
 
 <p align="center">
