@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey Devs!👋
 <h1 align="center">Desenvolvedora Front-end e Android</h1>
 
 <h4 align="center">
@@ -26,6 +26,10 @@
         <li> HTML | CSS </li>
         <li> JavaScript | TypeScript</li>
         <li> ReactJS | Kotlin</li>
+        <li> Português fluente</li>
+        <li> Espanhol Nativo</li>
+      
+      
     </ul>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaacevedo&show_icons=true&layout=compact" />
 </details>
