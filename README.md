@@ -39,7 +39,7 @@
         <li> Português fluente</li>
         <li> Espanhol Nativo</li>
     </ul>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaacevedo&show_icons=true&layout=compact" />
+ 
 </details>
 
 <details>
