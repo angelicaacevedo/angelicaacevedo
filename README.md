@@ -27,7 +27,7 @@
 
 - 👯 Colaborei no projeto de [Adote](https://adote.vercel.app)
 
-- ⚡ **Gosto de rock, deportes extremos, amo conhecer novos lugares ler um livro e da natureza**
+- ⚡ **Gosto de rock, deportes extremos, amo conhecer novos lugares, ler um bom livro e da natureza**
 
 <details>
     <summary>🚀 Skills</summary>
