@@ -21,11 +21,13 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 Atualmente estou aprendendo **Kotlin**
 
-- 👯 I’m looking to collaborate on [Adote](https://adote.vercel.app)
+- 👯 Estou procurando colaborar em projetos de Android
 
-- ⚡ Fun fact **Gosto de rock, deportes extremos, amo conhecer novos lugares ler um livro e da natureza**
+- 👯 Colaborei no projeto de [Adote](https://adote.vercel.app)
+
+- ⚡ **Gosto de rock, deportes extremos, amo conhecer novos lugares ler um livro e da natureza**
 
 <details>
     <summary>🚀 Skills</summary>
