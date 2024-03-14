@@ -1,5 +1,5 @@
 ### Hey Devs!👋
-<h1 align="center">Desenvolvedora Front-end e Android</h1>
+<h1 align="center">Desenvolvedora Android Mobile</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelicaacevedo&label=Profile%20views&color=0e75b6&style=flat" alt="angelicaacevedo" /> </p>
 
@@ -21,21 +21,19 @@
   </a>
 </p>
 
-- 🌱 Atualmente estou aprendendo **Kotlin**
-
 - 👯 Estou procurando colaborar em projetos de Android
 
 - 👯 Colaborei no projeto de [Adote](https://adote.vercel.app)
 
-- ⚡ **Gosto de rock, deportes extremos, amo conhecer novos lugares, ler um bom livro e da natureza**
+- ⚡ **Gosto de passar tempo com minha familia, conhecer novos lugares, experimentar comidas novas e mergulhar**
 
 <details>
     <summary>🚀 Skills</summary>
     <br />
     <ul>
-        <li> HTML | CSS </li>
-        <li> JavaScript | TypeScript</li>
-        <li> ReactJS | Kotlin</li>
+        <li> Kotlin </li>
+        <li> Compose</li>
+        <li> Arquitetura MVVM | MVI</li>
         <li> Português fluente</li>
         <li> Espanhol Nativo</li>
     </ul>
