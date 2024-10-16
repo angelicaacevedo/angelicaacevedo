@@ -24,7 +24,7 @@
 
 <h2>Sobre Mim</h2>
 
-<p>Sou Analista de Desenvolvimento Android com mais de 3 anos de experiência, especialista em Kotlin e na construção de apps escaláveis com Jetpack Compose. Trabalho com <strong>arquitetura modular</strong>, tendo desenvolvido aplicativos com <strong>mais de 15 módulos</strong> e <strong>integração entre múltiplos repositórios</strong>.</p>
+<p>Sou Analista de Desenvolvimento Android com mais de 3 anos de experiência, especialista em Kotlin e na construção de apps escaláveis com Jetpack Compose. Trabalho com <strong>arquitetura modular</strong>, tendo desenvolvido um aplicativo com <strong>mais de 15 módulos</strong> e <strong>integração entre múltiplos repositórios</strong>.</p>
 
 <p>Atuo com metodologias ágeis (Scrum/Kanban), em equipes distribuídas e de alta performance, garantindo uma <strong>cobertura de testes unitários superior a 86%</strong>, utilizando <strong>Mockito</strong> e <strong>MockK</strong>.</p>
 
