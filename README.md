@@ -48,17 +48,17 @@
 <h2>Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuperfil&show_icons=true&theme=dracula" alt="estatísticas do perfil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angelicaacevedo&show_icons=true&theme=dracula" alt="estatísticas do perfil" />
 </p>
 
 <h2>Linguagens Mais Usadas</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuperfil&layout=compact&theme=dracula" alt="principais linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaacevedo&layout=compact&theme=dracula" alt="principais linguagens" />
 </p>
 
 <h2>Troféus GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuperfil&theme=dracula&no-frame=true" alt="troféus do github" />
+  <img src="https://github-profile-trophy.vercel.app/?username=angelicaacevedo&theme=dracula&no-frame=true" alt="troféus do github" />
 </p>
