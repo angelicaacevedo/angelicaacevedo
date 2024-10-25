@@ -44,3 +44,21 @@
   <li>Fluente em <strong>português</strong> e nativo em <strong>espanhol</strong>.</li>
   <li>Profundo interesse em tecnologias emergentes e melhoria contínua de processos de desenvolvimento.</li>
 </ul>
+
+<h2>Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuperfil&show_icons=true&theme=dracula" alt="estatísticas do perfil" />
+</p>
+
+<h2>Linguagens Mais Usadas</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuperfil&layout=compact&theme=dracula" alt="principais linguagens" />
+</p>
+
+<h2>Troféus GitHub</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seuperfil&theme=dracula&no-frame=true" alt="troféus do github" />
+</p>
